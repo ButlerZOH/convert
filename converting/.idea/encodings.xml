@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/basedao/BaseDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/entity/Mix.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/entity/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/entrance/Entrance.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/framework/BaseTableModule.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/framework/BillNo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/framework/ImagePanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/framework/JdbcUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/framework/MyFont.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/framework/Tools.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/framework/WindowOpacity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/services/ConverterServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/services/MixServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/services/PathLoadServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/services/TransformerServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/services/UserServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/AddConverterFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/AddMixFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/AddTransformerFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/ConverterFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/IndexJFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/LoginJFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/Message.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/MixManageFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/ModifyConverterJFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/ModifyMixFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/ModifyTransformerFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/TransformerManage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/UserRegisterJFrame.java" charset="GBK" />
+  </component>
+</project>

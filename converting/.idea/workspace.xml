@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="converting:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e07fc6b-3b6c-4ef4-ad4a-f5ff713c68ae" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/converting$Entrance.ic" NAME="Entrance Coverage Results" MODIFIED="1605959791002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>entrance.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="convertingstation@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="convertingstation@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="convertingstation@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="convertingstation: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="convertingstation@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="convertingstation: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="converter: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="convertingstation@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="convertingstation: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="mix: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="convertingstation@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="convertingstation: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="pathload: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="convertingstation@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="convertingstation: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="transformer: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="67195271">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="45" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="17" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.2" value="11" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="45" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="2" />
+          <entry key="class" value="2" />
+          <entry key="converter" value="8" />
+          <entry key="java" value="203" />
+          <entry key="mix" value="7" />
+          <entry key="pathload" value="9" />
+          <entry key="png" value="2" />
+          <entry key="properties" value="7" />
+          <entry key="sql" value="1" />
+          <entry key="transformer" value="6" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="Database Element" value="30" />
+          <entry key="Image" value="2" />
+          <entry key="JAVA" value="203" />
+          <entry key="Manifest" value="2" />
+          <entry key="Properties" value="7" />
+          <entry key="Scratch" value="1" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell" value="2" />
+          <entry key="dummy" value="49" />
+          <entry key="java" value="10916" />
+          <entry key="properties" value="28" />
+          <entry key="xml" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="10916" />
+          <entry key="PLAIN_TEXT" value="49" />
+          <entry key="Properties" value="28" />
+          <entry key="Scratch" value="2" />
+          <entry key="XML" value="18" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="converting" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/view/AddMixFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/services/UserServiceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/view/ConverterFrame.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/view/AddMixFrame.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/services/TransformerServiceImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/view/TransformerManage.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/view/AddTransformerFrame.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/view/Message.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/view/MixManageFrame.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/view/ModifyMixFrame.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/framework/JdbcUtil.java" />
+        <option value="$PROJECT_DIR$/src/view/UserRegisterJFrame.java" />
+        <option value="$PROJECT_DIR$/src/view/GoodsMangerJPanel.java" />
+        <option value="$PROJECT_DIR$/src/view/GoodsManagerJPanel.java" />
+        <option value="$PROJECT_DIR$/src/view/converter.java" />
+        <option value="$PROJECT_DIR$/src/entity/converter.java" />
+        <option value="$PROJECT_DIR$/src/entity/transformer.java" />
+        <option value="$PROJECT_DIR$/src/services/converterServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/view/tes.java" />
+        <option value="$PROJECT_DIR$/src/view/converterFrame.java" />
+        <option value="$PROJECT_DIR$/src/view/addConverterFrame.java" />
+        <option value="$PROJECT_DIR$/src/services/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/entity/Converter.java" />
+        <option value="$PROJECT_DIR$/src/view/MessageFrame.java" />
+        <option value="$PROJECT_DIR$/src/view/LoginJFrame.java" />
+        <option value="$PROJECT_DIR$/src/view/ConverterMessage.java" />
+        <option value="$PROJECT_DIR$/src/view/transformer/AddTransformerFrame.java" />
+        <option value="$PROJECT_DIR$/src/view/transformer/TransformerManage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/util/Rename.java" />
+        <option value="$PROJECT_DIR$/src/util/ReName.java" />
+        <option value="$PROJECT_DIR$/src/view/AddConverterFrame.java" />
+        <option value="$PROJECT_DIR$/src/entity/Mix.java" />
+        <option value="$PROJECT_DIR$/src/view/IndexJFrame.java" />
+        <option value="$PROJECT_DIR$/src/entity/PathLoad.java" />
+        <option value="$PROJECT_DIR$/src/services/TransformerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/services/MixServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/services/ConverterServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/util/FileExecution.java" />
+        <option value="$PROJECT_DIR$/src/services/PathLoadServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/view/ModifyConverterJFrame.java" />
+        <option value="$PROJECT_DIR$/src/view/TransformerManage.java" />
+        <option value="$PROJECT_DIR$/src/view/AddTransformerFrame.java" />
+        <option value="$PROJECT_DIR$/src/view/ModifyTransformerFrame.java" />
+        <option value="$PROJECT_DIR$/src/view/ModifyMixFrame.java" />
+        <option value="$PROJECT_DIR$/src/view/Message.java" />
+        <option value="$PROJECT_DIR$/src/view/ConverterFrame.java" />
+        <option value="$PROJECT_DIR$/src/view/MixManageFrame.java" />
+        <option value="$PROJECT_DIR$/src/entrance/Entrance.java" />
+        <option value="$PROJECT_DIR$/src/view/AddMixFrame.java" />
+        <option value="$PROJECT_DIR$/src/framework/WindowOpacity.java" />
+        <option value="$PROJECT_DIR$/src/basedao/BaseDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/jdbc.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="converting" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="converting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="converting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="converting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="converting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="converting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="converting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basedao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="converting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="converting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="converting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="converting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="entrance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="converting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="converting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SearchEverywhereHistoryKey" value="selectAll&#9;PSI&#9;JAVA://services.ConverterServiceImpl#selectAll" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607327670254" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="view" />
+      <recent name="services" />
+      <recent name="entity" />
+      <recent name="entrance" />
+      <recent name="framework" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\Administrator\idea-workspace\converting\out\artifacts\converting_jar" />
+      <recent name="D:\Users\Administrator\idea-workspace\converting\src" />
+      <recent name="D:\Users\Administrator\idea-workspace\converting" />
+      <recent name="D:\Users\Administrator\idea-workspace\converting\src\framework" />
+      <recent name="D:\Users\Administrator\idea-workspace\converting\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Entrance">
+    <configuration name="Entrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="entrance.Entrance" />
+      <module name="converting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entrance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileExecution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="util.FileExecution" />
+      <module name="converting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MixServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="services.MixServiceImpl" />
+      <module name="converting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PathLoadServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="services.PathLoadServiceImpl" />
+      <module name="converting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransformerServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="services.TransformerServiceImpl" />
+      <module name="converting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Entrance" />
+      <item itemvalue="Application.TransformerServiceImpl" />
+      <item itemvalue="Application.FileExecution" />
+      <item itemvalue="Application.MixServiceImpl" />
+      <item itemvalue="Application.PathLoadServiceImpl" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Entrance" />
+        <item itemvalue="Application.PathLoadServiceImpl" />
+        <item itemvalue="Application.FileExecution" />
+        <item itemvalue="Application.MixServiceImpl" />
+        <item itemvalue="Application.TransformerServiceImpl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e07fc6b-3b6c-4ef4-ad4a-f5ff713c68ae" name="Default Changelist" comment="" />
+      <created>1604834062866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604834062866</updated>
+      <workItem from="1604834065481" duration="1529000" />
+      <workItem from="1604844347201" duration="265000" />
+      <workItem from="1604918102557" duration="8401000" />
+      <workItem from="1605016344706" duration="1246000" />
+      <workItem from="1605095829140" duration="36000" />
+      <workItem from="1605096779048" duration="470000" />
+      <workItem from="1605264477349" duration="15471000" />
+      <workItem from="1605349226615" duration="2582000" />
+      <workItem from="1605358582493" duration="67000" />
+      <workItem from="1605524397121" duration="3502000" />
+      <workItem from="1605938274373" duration="17715000" />
+      <workItem from="1606029544770" duration="14000" />
+      <workItem from="1606029572089" duration="706000" />
+      <workItem from="1606030652183" duration="2000" />
+      <workItem from="1606030665496" duration="649000" />
+      <workItem from="1606032886932" duration="613000" />
+      <workItem from="1606045127998" duration="212000" />
+      <workItem from="1606050088116" duration="11000" />
+      <workItem from="1606348829072" duration="5485000" />
+      <workItem from="1606441831078" duration="7162000" />
+      <workItem from="1606477833726" duration="8000" />
+      <workItem from="1606477848415" duration="5040000" />
+      <workItem from="1606484009682" duration="4253000" />
+      <workItem from="1606542968765" duration="8428000" />
+      <workItem from="1606561649750" duration="10601000" />
+      <workItem from="1606725259082" duration="2286000" />
+      <workItem from="1606733067804" duration="724000" />
+      <workItem from="1606733853200" duration="2925000" />
+      <workItem from="1606738677519" duration="147000" />
+      <workItem from="1606738857535" duration="1414000" />
+      <workItem from="1606741234164" duration="75000" />
+      <workItem from="1606879333665" duration="1353000" />
+      <workItem from="1606908495326" duration="10000" />
+      <workItem from="1607161782434" duration="16000" />
+      <workItem from="1607161802711" duration="55000" />
+      <workItem from="1607326311533" duration="1460000" />
+      <workItem from="1607560801308" duration="759000" />
+      <workItem from="1607588514708" duration="155000" />
+      <workItem from="1607832812650" duration="711000" />
+      <workItem from="1607916705019" duration="628000" />
+      <workItem from="1607928202586" duration="145000" />
+      <workItem from="1608127195204" duration="25000" />
+      <workItem from="1608127226628" duration="692000" />
+      <workItem from="1608948877295" duration="659000" />
+      <workItem from="1609164379444" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="108781000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49808428" visible="true" weight="0.22184986" />
+      <window_info id="Structure" order="1" sideWeight="0.5021008" side_tool="true" weight="0.2476573" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5019157" side_tool="true" weight="0.2476573" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20084865" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.26375178" />
+      <window_info anchor="bottom" id="Database Changes" order="7" weight="0.32863188" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32863188" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="12" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="13" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32931727" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32931727" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/view/tes.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4d4feb5d-6d19-4a2c-9de1-de4a8af0cb5f/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/framework/ImagePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/framework/MyFont.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/awt/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="416" selection-start-line="416" selection-end-line="416" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/add.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/hp.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/UserRegisterJFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="103" column="51" selection-start-line="103" selection-start-column="40" selection-end-line="103" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/Transformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/Converter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://4d4feb5d-6d19-4a2c-9de1-de4a8af0cb5f/schema/convertingstation/table/converter" />
+    <entry file="das://4d4feb5d-6d19-4a2c-9de1-de4a8af0cb5f/schema/convertingstation/table/transformer" />
+    <entry file="file://$PROJECT_DIR$/src/entity/Mix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/MixMangerFrame.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.20.jar!/com/mysql/cj/jdbc/ClientPreparedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="773" selection-start-line="773" selection-end-line="773" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/indexbackground.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/MixServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="95" column="7" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/TransformerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="102" column="23" lean-forward="true" selection-start-line="102" selection-start-column="23" selection-end-line="102" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ModifyTransformerFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="130" column="51" lean-forward="true" selection-start-line="130" selection-start-column="51" selection-end-line="130" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ModifyConverterJFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="139" column="28" selection-start-line="139" selection-start-column="28" selection-end-line="142" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ModifyMixFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="126" column="60" lean-forward="true" selection-start-line="126" selection-start-column="60" selection-end-line="126" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/PathLoad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/FileExecution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-437">
+          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="228" column="41" selection-start-line="228" selection-start-column="41" selection-end-line="228" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/PathLoadServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ConverterFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="221" column="56" selection-start-line="221" selection-start-column="56" selection-end-line="221" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/TransformerManage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="215" column="65" selection-start-line="215" selection-start-column="65" selection-end-line="215" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://4d4feb5d-6d19-4a2c-9de1-de4a8af0cb5f/schema/convertingstation/table/pathload" />
+    <entry file="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.20.jar!/com/mysql/cj/jdbc/exceptions/SQLError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://4d4feb5d-6d19-4a2c-9de1-de4a8af0cb5f/schema/convertingstation/table/mix" />
+    <entry file="file://$PROJECT_DIR$/src/view/MixManageFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="198" column="35" selection-start-line="198" selection-start-column="35" selection-end-line="198" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entrance/Entrance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/framework/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/framework/BaseTableModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/framework/JdbcUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/framework/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-679">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/framework/BillNo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/framework/WindowOpacity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/AddConverterFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-785">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/AddTransformerFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248">
+          <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/IndexJFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="944">
+          <caret line="162" selection-start-line="162" selection-end-line="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/LoginJFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basedao/BaseDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/ConverterServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/AddMixFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>converting:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>converting</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
